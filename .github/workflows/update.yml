@@ -4118,8 +4118,8 @@ jobs:
             echo "$file not found."
           fi
 
-          # 处理规则:Github
-          file="Github.list"
+          # 处理规则:GitHub
+          file="GitHub.list"
           if [ -f "$file" ]; then
             sed -i 's/,MATRIX-IO/,GitHub/g' "$file"
           else
