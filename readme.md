@@ -6,21 +6,13 @@
 
 | 工具 | 配置 | 规则 | 重写 | 脚本 |
 | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Clash.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Clash/Matrix.yaml) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Clash/Ruleset) | | |
+| <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Clash.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Clash/Matrix.yaml) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Clash/Ruleset) | 🧸 | 🧸 |
 | <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Egern.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Egern/Matrix.yaml) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Egern/Ruleset) | [重写](https://github.com/Centralmatrix3/Matrix-io/tree/master/Egern/Rewrite) | [脚本](https://github.com/Centralmatrix3/Matrix-io/tree/master/Egern/Scripts) |
 | <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Loon.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Loon/Matrix.conf) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Loon/Ruleset) | [重写](https://github.com/Centralmatrix3/Matrix-io/tree/master/Loon/Rewrite) | [脚本](https://github.com/Centralmatrix3/Matrix-io/tree/master/Loon/Scripts) |
 | <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-QuantumultX.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/QuantumultX/Matrix.conf) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/QuantumultX/Ruleset) | [重写](https://github.com/Centralmatrix3/Matrix-io/tree/master/QuantumultX/Rewrite) | [脚本](https://github.com/Centralmatrix3/Matrix-io/tree/master/QuantumultX/Scripts) |
 | <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Shadowrocket.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Shadowrocket/Matrix.conf) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Shadowrocket/Ruleset) | [重写](https://github.com/Centralmatrix3/Matrix-io/tree/master/Shadowrocket/Rewrite) | [脚本](https://github.com/Centralmatrix3/Matrix-io/tree/master/Shadowrocket/Scripts) |
 | <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Stash.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Stash/Matrix.yaml) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Stash/Ruleset) | [重写](https://github.com/Centralmatrix3/Matrix-io/tree/master/Stash/Rewrite) | [脚本](https://github.com/Centralmatrix3/Matrix-io/tree/master/Stash/Scripts) |
 | <img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/1024-Surge.png" align="center" height="50" width="50"> | [配置](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Matrix.conf) | [规则](https://github.com/Centralmatrix3/Matrix-io/tree/master/Surge/Ruleset) | [重写](https://github.com/Centralmatrix3/Matrix-io/tree/master/Surge/Rewrite) | [脚本](https://github.com/Centralmatrix3/Matrix-io/tree/master/Surge/Scripts) |
-
-</div>
-
-<div align="center">
-
-| 图标 | 图标 | 图标 | 图标 | 图标 |
-| :----: | :----: | :----: | :----: | :----: |
-| <img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Matrix/Picture109.png" align="center" height="50" width="50"> | [图标](https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Matrix.Json) | [图标](https://raw.githubusercontent.com/Orz-3/mini/master/miniColor.json) | [图标](https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/icons-all.json) | [图标](https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor-All.json) |
 
 </div>
 
@@ -43,7 +35,7 @@
 | 本项目所有规则和重写以及脚本数据都来自互联网。不保证其所有资源的可用性。不生产规则只是开源规则的搬运工。特别感谢开源规则项目作者的默默辛勤付出。 |
 
 | 特别感谢 | 特别感谢 |
-| :----: |:----: |
+| :----: | :----: |
 | 规则 | 重写 |
 | [ACL4SSR](https://github.com/ACL4SSR) | [ScriptHub](https://github.com/Script-Hub-Org) |
 | [blackmatrix7](https://github.com/blackmatrix7) | [SubStore](https://github.com/sub-store-org) |
