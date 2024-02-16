@@ -1,5 +1,5 @@
 # 规则名称:PROXY
-# 规则统计:19204
+# 规则统计:19213
 
 HOST,3dns-1.adobe.com,PROXY
 HOST,3dns-2.adobe.com,PROXY
@@ -707,7 +707,9 @@ HOST-SUFFIX,4ksex.me,PROXY
 HOST-SUFFIX,4kup.net,PROXY
 HOST-SUFFIX,4mydomain.com,PROXY
 HOST-SUFFIX,4myminicard.com,PROXY
+HOST-SUFFIX,4pcdn.org,PROXY
 HOST-SUFFIX,4pig.com,PROXY
+HOST-SUFFIX,4plebs.org,PROXY
 HOST-SUFFIX,4porn.com,PROXY
 HOST-SUFFIX,4porn4.com,PROXY
 HOST-SUFFIX,4pu.com,PROXY
@@ -1152,6 +1154,7 @@ HOST-SUFFIX,advertfan.com,PROXY
 HOST-SUFFIX,advertisercommunity.com,PROXY
 HOST-SUFFIX,adx.promo,PROXY
 HOST-SUFFIX,ae,PROXY
+HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ae.hao123.com,PROXY
 HOST-SUFFIX,ae.org,PROXY
 HOST-SUFFIX,aeasyshop.com,PROXY
@@ -1186,6 +1189,7 @@ HOST-SUFFIX,africamagic,PROXY
 HOST-SUFFIX,ag,PROXY
 HOST-SUFFIX,aga-expo.com,PROXY
 HOST-SUFFIX,agakhan,PROXY
+HOST-SUFFIX,agedm.org,PROXY
 HOST-SUFFIX,agendaweek.com,PROXY
 HOST-SUFFIX,agoogleaday.com,PROXY
 HOST-SUFFIX,agu.org,PROXY
@@ -1267,6 +1271,7 @@ HOST-SUFFIX,akadns.com,PROXY
 HOST-SUFFIX,akadns.net,PROXY
 HOST-SUFFIX,akadns6.net,PROXY
 HOST-SUFFIX,akadns88.net,PROXY
+HOST-SUFFIX,akadns99.net,PROXY
 HOST-SUFFIX,akaeai.com,PROXY
 HOST-SUFFIX,akafms.net,PROXY
 HOST-SUFFIX,akagtm.org,PROXY
@@ -1690,6 +1695,7 @@ HOST-SUFFIX,ap-singapore.myqcloud.com,PROXY
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-3.myhuaweicloud.com,PROXY
+HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-tokyo.myqcloud.com,PROXY
 HOST-SUFFIX,ap.org,PROXY
 HOST-SUFFIX,ap0le.com,PROXY
@@ -6068,6 +6074,7 @@ HOST-SUFFIX,eu-consumer-empowerment.com,PROXY
 HOST-SUFFIX,eu-frankfurt.myqcloud.com,PROXY
 HOST-SUFFIX,eu-moscow.myqcloud.com,PROXY
 HOST-SUFFIX,eu-west-0.myhuaweicloud.com,PROXY
+HOST-SUFFIX,eu-west-101.myhuaweicloud.com,PROXY
 HOST-SUFFIX,eu.org,PROXY
 HOST-SUFFIX,eubluecardvisa.com,PROXY
 HOST-SUFFIX,eucasino.com,PROXY
@@ -10991,6 +10998,7 @@ HOST-SUFFIX,mdnkids.com,PROXY
 HOST-SUFFIX,mdpi.com,PROXY
 HOST-SUFFIX,mdpj-mov.shop,PROXY
 HOST-SUFFIX,mdpjoin.buzz,PROXY
+HOST-SUFFIX,me-east-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,me-gay.com,PROXY
 HOST-SUFFIX,me.com,PROXY
 HOST-SUFFIX,me.me,PROXY
@@ -16660,6 +16668,7 @@ HOST-SUFFIX,toytractorshow.com,PROXY
 HOST-SUFFIX,tparents.org,PROXY
 HOST-SUFFIX,tpornstars.com,PROXY
 HOST-SUFFIX,tr,PROXY
+HOST-SUFFIX,tr-west-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,tr.com,PROXY
 HOST-SUFFIX,tracfone.com,PROXY
 HOST-SUFFIX,tracking-location.com,PROXY

@@ -1,5 +1,5 @@
 # 规则名称:DIRECT
-# 规则统计:68311
+# 规则统计:68312
 
 domain_set:
   - 265.com
@@ -103,6 +103,7 @@ domain_set:
   - crl-lb.apple.com.akadns.net
   - crl.apple.com
   - crl.pki.goog
+  - crls.pki.goog
   - csi.gstatic.com
   - cstat.apple.com
   - cstat.cdn-apple.com

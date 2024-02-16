@@ -1,5 +1,5 @@
 # 规则名称:DIRECT
-# 规则统计:68311
+# 规则统计:68312
 
 HOST,265.com,DIRECT
 HOST,2mdn-cn.net,DIRECT
@@ -102,6 +102,7 @@ HOST,crashlyticsreports-pa.googleapis.com,DIRECT
 HOST,crl-lb.apple.com.akadns.net,DIRECT
 HOST,crl.apple.com,DIRECT
 HOST,crl.pki.goog,DIRECT
+HOST,crls.pki.goog,DIRECT
 HOST,csi.gstatic.com,DIRECT
 HOST,cstat.apple.com,DIRECT
 HOST,cstat.cdn-apple.com,DIRECT

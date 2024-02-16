@@ -1,5 +1,5 @@
 # 规则名称:DIRECT
-# 规则统计:68311
+# 规则统计:68312
 
 DOMAIN,265.com
 DOMAIN,2mdn-cn.net
@@ -102,6 +102,7 @@ DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
 DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
 DOMAIN,csi.gstatic.com
 DOMAIN,cstat.apple.com
 DOMAIN,cstat.cdn-apple.com
