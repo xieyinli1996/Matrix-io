@@ -12,6 +12,9 @@ secure_dns:         # 加密DNS
   servers:
     - https://dns.alidns.com/dns-query
 
+# 允许外部链接
+allow_external_connections: false
+
 # GEOIP 数据库
 geoip_db_url: https://github.com/Masaiki/GeoIP2-CN/raw/release/Country.mmdb
 
