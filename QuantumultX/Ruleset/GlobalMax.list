@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:19683
+# 规则统计:19692
 
 HOST,a.ppy.sh,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -356,7 +356,9 @@ HOST-SUFFIX,4greedy.com,GlobalMax
 HOST-SUFFIX,4ksex.me,GlobalMax
 HOST-SUFFIX,4kup.net,GlobalMax
 HOST-SUFFIX,4myminicard.com,GlobalMax
+HOST-SUFFIX,4pcdn.org,GlobalMax
 HOST-SUFFIX,4pig.com,GlobalMax
+HOST-SUFFIX,4plebs.org,GlobalMax
 HOST-SUFFIX,4porn.com,GlobalMax
 HOST-SUFFIX,4porn4.com,GlobalMax
 HOST-SUFFIX,4tube.com,GlobalMax
@@ -711,6 +713,7 @@ HOST-SUFFIX,adwords-community.com,GlobalMax
 HOST-SUFFIX,adwords.com,GlobalMax
 HOST-SUFFIX,adwordsexpress.com,GlobalMax
 HOST-SUFFIX,adx.promo,GlobalMax
+HOST-SUFFIX,ae-ad-1.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,aeasyshop.com,GlobalMax
 HOST-SUFFIX,aebn.com,GlobalMax
 HOST-SUFFIX,aerogardcn.com,GlobalMax
@@ -727,6 +730,7 @@ HOST-SUFFIX,afp.com,GlobalMax
 HOST-SUFFIX,afpforum.com,GlobalMax
 HOST-SUFFIX,afriboyz.com,GlobalMax
 HOST-SUFFIX,aga-expo.com,GlobalMax
+HOST-SUFFIX,agedm.org,GlobalMax
 HOST-SUFFIX,agendaweek.com,GlobalMax
 HOST-SUFFIX,agoogleaday.com,GlobalMax
 HOST-SUFFIX,agu.org,GlobalMax
@@ -795,6 +799,7 @@ HOST-SUFFIX,akadeem.net,GlobalMax
 HOST-SUFFIX,akadns.com,GlobalMax
 HOST-SUFFIX,akadns6.net,GlobalMax
 HOST-SUFFIX,akadns88.net,GlobalMax
+HOST-SUFFIX,akadns99.net,GlobalMax
 HOST-SUFFIX,akaeai.com,GlobalMax
 HOST-SUFFIX,akafms.net,GlobalMax
 HOST-SUFFIX,akagtm.org,GlobalMax
@@ -1104,6 +1109,7 @@ HOST-SUFFIX,ap-jakarta.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-mumbai.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-seoul.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-singapore.myqcloud.com,GlobalMax
+HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,ap-tokyo.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap0le.com,GlobalMax
 HOST-SUFFIX,apa.org,GlobalMax
@@ -4406,6 +4412,7 @@ HOST-SUFFIX,etwealth.com,GlobalMax
 HOST-SUFFIX,eu-consumer-empowerment.com,GlobalMax
 HOST-SUFFIX,eu-frankfurt.myqcloud.com,GlobalMax
 HOST-SUFFIX,eu-moscow.myqcloud.com,GlobalMax
+HOST-SUFFIX,eu-west-101.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,eubluecardvisa.com,GlobalMax
 HOST-SUFFIX,eurekaselect.com,GlobalMax
 HOST-SUFFIX,eurobabeindex.com,GlobalMax
@@ -7980,6 +7987,7 @@ HOST-SUFFIX,mdnyalp.dev,GlobalMax
 HOST-SUFFIX,mdpi.com,GlobalMax
 HOST-SUFFIX,mdpj-mov.shop,GlobalMax
 HOST-SUFFIX,mdpjoin.buzz,GlobalMax
+HOST-SUFFIX,me-east-1.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,me-gay.com,GlobalMax
 HOST-SUFFIX,meadjohnson.com,GlobalMax
 HOST-SUFFIX,meadjohnson.net,GlobalMax
@@ -12001,6 +12009,7 @@ HOST-SUFFIX,towerauction.com,GlobalMax
 HOST-SUFFIX,townofsins.com,GlobalMax
 HOST-SUFFIX,tpornstars.com,GlobalMax
 HOST-SUFFIX,tps138.info,GlobalMax
+HOST-SUFFIX,tr-west-1.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,tr.com,GlobalMax
 HOST-SUFFIX,tracking-location.com,GlobalMax
 HOST-SUFFIX,tradevip1.com,GlobalMax

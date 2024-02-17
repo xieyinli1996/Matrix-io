@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:19683
+# 规则统计:19692
 
 DOMAIN,a.ppy.sh
 DOMAIN,adobeereg.com
@@ -356,7 +356,9 @@ DOMAIN-SUFFIX,4greedy.com
 DOMAIN-SUFFIX,4ksex.me
 DOMAIN-SUFFIX,4kup.net
 DOMAIN-SUFFIX,4myminicard.com
+DOMAIN-SUFFIX,4pcdn.org
 DOMAIN-SUFFIX,4pig.com
+DOMAIN-SUFFIX,4plebs.org
 DOMAIN-SUFFIX,4porn.com
 DOMAIN-SUFFIX,4porn4.com
 DOMAIN-SUFFIX,4tube.com
@@ -711,6 +713,7 @@ DOMAIN-SUFFIX,adwords-community.com
 DOMAIN-SUFFIX,adwords.com
 DOMAIN-SUFFIX,adwordsexpress.com
 DOMAIN-SUFFIX,adx.promo
+DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
 DOMAIN-SUFFIX,aeasyshop.com
 DOMAIN-SUFFIX,aebn.com
 DOMAIN-SUFFIX,aerogardcn.com
@@ -727,6 +730,7 @@ DOMAIN-SUFFIX,afp.com
 DOMAIN-SUFFIX,afpforum.com
 DOMAIN-SUFFIX,afriboyz.com
 DOMAIN-SUFFIX,aga-expo.com
+DOMAIN-SUFFIX,agedm.org
 DOMAIN-SUFFIX,agendaweek.com
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,agu.org
@@ -795,6 +799,7 @@ DOMAIN-SUFFIX,akadeem.net
 DOMAIN-SUFFIX,akadns.com
 DOMAIN-SUFFIX,akadns6.net
 DOMAIN-SUFFIX,akadns88.net
+DOMAIN-SUFFIX,akadns99.net
 DOMAIN-SUFFIX,akaeai.com
 DOMAIN-SUFFIX,akafms.net
 DOMAIN-SUFFIX,akagtm.org
@@ -1104,6 +1109,7 @@ DOMAIN-SUFFIX,ap-jakarta.myqcloud.com
 DOMAIN-SUFFIX,ap-mumbai.myqcloud.com
 DOMAIN-SUFFIX,ap-seoul.myqcloud.com
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com
+DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
 DOMAIN-SUFFIX,ap-tokyo.myqcloud.com
 DOMAIN-SUFFIX,ap0le.com
 DOMAIN-SUFFIX,apa.org
@@ -4406,6 +4412,7 @@ DOMAIN-SUFFIX,etwealth.com
 DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com
 DOMAIN-SUFFIX,eu-moscow.myqcloud.com
+DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
 DOMAIN-SUFFIX,eubluecardvisa.com
 DOMAIN-SUFFIX,eurekaselect.com
 DOMAIN-SUFFIX,eurobabeindex.com
@@ -7980,6 +7987,7 @@ DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,mdpj-mov.shop
 DOMAIN-SUFFIX,mdpjoin.buzz
+DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com
 DOMAIN-SUFFIX,me-gay.com
 DOMAIN-SUFFIX,meadjohnson.com
 DOMAIN-SUFFIX,meadjohnson.net
@@ -12001,6 +12009,7 @@ DOMAIN-SUFFIX,towerauction.com
 DOMAIN-SUFFIX,townofsins.com
 DOMAIN-SUFFIX,tpornstars.com
 DOMAIN-SUFFIX,tps138.info
+DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX,tr.com
 DOMAIN-SUFFIX,tracking-location.com
 DOMAIN-SUFFIX,tradevip1.com

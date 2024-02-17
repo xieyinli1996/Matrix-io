@@ -1,5 +1,5 @@
 # 规则名称:GlobalMax
-# 规则统计:19683
+# 规则统计:19692
 
 domain_set:
   - a.ppy.sh
@@ -358,7 +358,9 @@ domain_suffix_set:
   - 4ksex.me
   - 4kup.net
   - 4myminicard.com
+  - 4pcdn.org
   - 4pig.com
+  - 4plebs.org
   - 4porn.com
   - 4porn4.com
   - 4tube.com
@@ -713,6 +715,7 @@ domain_suffix_set:
   - adwords.com
   - adwordsexpress.com
   - adx.promo
+  - ae-ad-1.myhuaweicloud.com
   - aeasyshop.com
   - aebn.com
   - aerogardcn.com
@@ -729,6 +732,7 @@ domain_suffix_set:
   - afpforum.com
   - afriboyz.com
   - aga-expo.com
+  - agedm.org
   - agendaweek.com
   - agoogleaday.com
   - agu.org
@@ -797,6 +801,7 @@ domain_suffix_set:
   - akadns.com
   - akadns6.net
   - akadns88.net
+  - akadns99.net
   - akaeai.com
   - akafms.net
   - akagtm.org
@@ -1106,6 +1111,7 @@ domain_suffix_set:
   - ap-mumbai.myqcloud.com
   - ap-seoul.myqcloud.com
   - ap-singapore.myqcloud.com
+  - ap-southeast-4.myhuaweicloud.com
   - ap-tokyo.myqcloud.com
   - ap0le.com
   - apa.org
@@ -4408,6 +4414,7 @@ domain_suffix_set:
   - eu-consumer-empowerment.com
   - eu-frankfurt.myqcloud.com
   - eu-moscow.myqcloud.com
+  - eu-west-101.myhuaweicloud.com
   - eubluecardvisa.com
   - eurekaselect.com
   - eurobabeindex.com
@@ -7982,6 +7989,7 @@ domain_suffix_set:
   - mdpi.com
   - mdpj-mov.shop
   - mdpjoin.buzz
+  - me-east-1.myhuaweicloud.com
   - me-gay.com
   - meadjohnson.com
   - meadjohnson.net
@@ -12003,6 +12011,7 @@ domain_suffix_set:
   - townofsins.com
   - tpornstars.com
   - tps138.info
+  - tr-west-1.myhuaweicloud.com
   - tr.com
   - tracking-location.com
   - tradevip1.com
